@@ -1,0 +1,18 @@
+.principal {
+	padding-top: 80px;
+	padding-bottom: 70px;
+}
+
+.avatar {
+	height: 50px;
+	width: 50px;
+}
+
+.center-table {
+  margin: 0 auto !important;
+  float: none !important;
+}
+
+.prueba {
+	border: none;
+}
